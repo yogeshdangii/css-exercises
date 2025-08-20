@@ -1,0 +1,20 @@
+.para{
+    background-color:rgb(238, 161, 215);
+}
+
+#one{
+    color:blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.para.cooler{
+    font-size: 20px;
+}
+
+#another{
+    background-color: rgb(171, 223, 171);
+    font-weight: 700;
+    font-size: 16px;
+
+}
